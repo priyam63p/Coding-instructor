@@ -65,13 +65,20 @@ git clone https://github.com/your-username/personal-coding-tutor.git
 cd personal-coding-tutor
 ```
 
-3. Add your Gemini API key in `script.js`
+3. Get your Gemini API Key
+
+* Visit **Google AI Studio** ([https://aistudio.google.com](https://aistudio.google.com))
+* Sign in with your Google account
+* Click on **Get API Key** or **Create API Key**
+* Copy the generated API key
+
+4. Add your Gemini API key in `script.js`
 
 ```javascript
 const API_KEY = "YOUR_GEMINI_API_KEY";
 ```
 
-4. Open `index.html` in your browser to run the project.
+5. Open `index.html` in your browser to run the project.
 
 ---
 
